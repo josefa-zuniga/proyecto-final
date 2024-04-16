@@ -27,3 +27,7 @@ border-radius: 50%;}
     background-color: blue;
     margin-bottom: 10px;
 }
+.voluntariado{
+    display: flex;
+    justify-content: center;
+}
